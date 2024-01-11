@@ -1,0 +1,160 @@
+Shared Dependencies:
+
+1. **Exported Variables**: 
+   - `userProfileData`: User profile information.
+   - `botProfileData`: Bot profile information.
+   - `chatHistoryData`: Chat history data.
+   - `fileData`: File sharing data.
+   - `notificationData`: Notification data.
+   - `themeData`: Theme data.
+   - `voiceChatData`: Voice chat data.
+   - `taskData`: Task management data.
+   - `calendarData`: Google calendar data.
+   - `pluginData`: Browser plugin data.
+   - `socialMediaData`: Social media integration data.
+   - `cloudServiceData`: Cloud service data.
+   - `activityData`: Activity tracking data.
+   - `mindfulnessData`: Mindfulness reminder data.
+   - `musicData`: Music recommendation data.
+   - `gameData`: Game recommendation data.
+   - `nsfwToggle`: NSFW toggle status.
+   - `customThemeData`: Custom theme data.
+   - `lorebookData`: Lorebook menu data.
+   - `chatbotSettingsData`: Chatbot settings data.
+   - `privacySecurityData`: Privacy and security data.
+
+2. **Data Schemas**: 
+   - `UserProfileSchema`
+   - `BotProfileSchema`
+   - `ChatHistorySchema`
+   - `FileSchema`
+   - `NotificationSchema`
+   - `ThemeSchema`
+   - `VoiceChatSchema`
+   - `TaskSchema`
+   - `CalendarSchema`
+   - `PluginSchema`
+   - `SocialMediaSchema`
+   - `CloudServiceSchema`
+   - `ActivitySchema`
+   - `MindfulnessSchema`
+   - `MusicSchema`
+   - `GameSchema`
+   - `NSFWToggleSchema`
+   - `CustomThemeSchema`
+   - `LorebookSchema`
+   - `ChatbotSettingsSchema`
+   - `PrivacySecuritySchema`
+
+3. **DOM Element IDs**: 
+   - `mainScreen`
+   - `navigationBar`
+   - `textChat`
+   - `voiceChat`
+   - `userProfile`
+   - `botProfile`
+   - `fileSharing`
+   - `chatHistory`
+   - `searchBar`
+   - `notifications`
+   - `themes`
+   - `helpSupport`
+   - `responsiveDesign`
+   - `flutterWidgets`
+   - `botAvatar`
+   - `animations`
+   - `soundEffects`
+   - `googleDocsAPI`
+   - `pypdf2`
+   - `googleSlidesAPI`
+   - `nlp`
+   - `webScraping`
+   - `fileManagement`
+   - `taskAutomation`
+   - `sentimentAnalysis`
+   - `translationServices`
+   - `dataAnalysis`
+   - `visualization`
+   - `googleCalendar`
+   - `taskPrioritization`
+   - `quizGenerator`
+   - `contentSummarization`
+   - `browserPlugins`
+   - `voiceControl`
+   - `socialMediaIntegration`
+   - `cloudServices`
+   - `activityTracking`
+   - `mindfulnessReminders`
+   - `musicRecommendations`
+   - `gameRecommendations`
+   - `nsfwToggle`
+   - `customTheme`
+   - `lorebookMenu`
+   - `chatbotSettings`
+   - `privacySecurity`
+
+4. **Message Names**: 
+   - `userMessage`
+   - `botMessage`
+   - `notificationMessage`
+   - `fileMessage`
+   - `taskMessage`
+   - `calendarMessage`
+   - `pluginMessage`
+   - `socialMediaMessage`
+   - `cloudServiceMessage`
+   - `activityMessage`
+   - `mindfulnessMessage`
+   - `musicMessage`
+   - `gameMessage`
+   - `nsfwToggleMessage`
+   - `customThemeMessage`
+   - `lorebookMessage`
+   - `chatbotSettingsMessage`
+   - `privacySecurityMessage`
+
+5. **Function Names**: 
+   - `displayUserProfile`
+   - `editUserProfile`
+   - `displayBotProfile`
+   - `editBotProfile`
+   - `sendTextMessage`
+   - `sendVoiceMessage`
+   - `shareFile`
+   - `displayChatHistory`
+   - `searchChatHistory`
+   - `displayNotification`
+   - `changeTheme`
+   - `getHelpSupport`
+   - `displayResponsiveDesign`
+   - `useFlutterWidgets`
+   - `animateBotAvatar`
+   - `playSoundEffects`
+   - `useGoogleDocsAPI`
+   - `usePyPDF2`
+   - `useGoogleSlidesAPI`
+   - `useNLP`
+   - `scrapeWeb`
+   - `manageFile`
+   - `automateTask`
+   - `analyzeSentiment`
+   - `translateText`
+   - `analyzeData`
+   - `visualizeData`
+   - `useGoogleCalendar`
+   - `prioritizeTask`
+   - `generateQuiz`
+   - `summarizeContent`
+   - `useBrowserPlugins`
+   - `controlVoice`
+   - `integrateSocialMedia`
+   - `useCloudServices`
+   - `trackActivity`
+   - `remindMindfulness`
+   - `recommendMusic`
+   - `recommendGame`
+   - `toggleNSFW`
+   - `designCustomTheme`
+   - `displayLorebookMenu`
+   - `adjustChatbotSettings`
+   - `ensurePrivacySecurity`
